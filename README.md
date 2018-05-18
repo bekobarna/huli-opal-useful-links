@@ -1,9 +1,7 @@
 # Huli Kalendaryo useful links
 
 - [Kalendaryo Android repository](https://github.com/green-fox-academy/huli-kalendaryo-android)
-- [Kalendaryo Backedn repository](https://github.com/green-fox-academy/huli-kalendaryo-backend)
-
-
+- [Kalendaryo Backend repository](https://github.com/green-fox-academy/huli-kalendaryo-backend)
 - [Kalendaryo Backend documentation](https://docs.google.com/document/d/1nvmbBhuqdXbLh5YGVh_CrpFYNFVgN9OlXnKramtNKso/edit)
 - [Kalendaryo Android documentation](https://drive.google.com/file/d/1QC7B7EwWlVrC4R_zUC4C5af4rbWXc5Mc/view)
 - [Kalendaryo Database and Flyway](https://docs.google.com/presentation/d/1eLH8w7UVP9OQzOPtMtk2jyGDXIKcx7J3XvHPpfU04II/edit#slide=id.p)
@@ -28,13 +26,13 @@
 - [What is Android](https://www.youtube.com/watch?v=TTpe2lOGF4g)
 - [Match parent - Wrap content](https://www.youtube.com/watch?v=0stzthsRlnA)
 - [Views - XML](https://youtu.be/90NkvX1Bg2A)
-- [Linear Layout, Relative layout](https://www.youtube.com/watch?v=WCLRZxf8mHc)
+- [Linear layout, Relative layout](https://www.youtube.com/watch?v=WCLRZxf8mHc)
 - [ListView](https://www.youtube.com/watch?v=U_Jvk4G28YE)
 - [RecyclerView](https://www.codingdemos.com/android-recyclerview-example/)
 - [RecyclerView how to handle links](https://www.youtube.com/watch?v=XxW5scw-n9Q)
 - [Retrofit](https://www.youtube.com/watch?v=sYWRv7Fasgg&list=PLshdtb5UWjSoFPs3AakEpH1pmSrJVxJhs&index=2)
 - [What is OAuth](https://www.scienceabc.com/innovation/oauth-how-does-login-with-facebook-google-work.html)
-- [What is context](https://youtu.be/-e6lyXIkIl0)
+- [What is Context in Android](https://youtu.be/-e6lyXIkIl0)
 - [Long-press pop-up window](https://stackoverflow.com/questions/23195208/how-to-pop-up-a-dialog-to-confirm-delete-when-user-long-press-on-the-list-item)
 - [Long-press on RecylerView](https://medium.com/@harivigneshjayapalan/android-recyclerview-implementing-single-item-click-and-long-press-part-ii-b43ef8cb6ad8)
 - [Google Calendar API overview](https://developers.google.com/calendar/concepts/)
