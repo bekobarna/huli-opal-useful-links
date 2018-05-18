@@ -37,3 +37,4 @@
 - [Long-press on RecylerView](https://medium.com/@harivigneshjayapalan/android-recyclerview-implementing-single-item-click-and-long-press-part-ii-b43ef8cb6ad8)
 - [Google Calendar API overview](https://developers.google.com/calendar/concepts/)
 - [Google Calendar API reference](https://developers.google.com/calendar/v3/reference/)
+- [Android handling back button](https://www.codeproject.com/Tips/1004463/Handling-back-button-press-in-an-activity-called-f)
