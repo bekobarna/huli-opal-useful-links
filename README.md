@@ -10,7 +10,7 @@
 
 - [Commit message conventions](https://gist.github.com/stephenparish/9941e89d80e2bc58a153)
 - [Useful public APIs](https://github.com/toddmotto/public-apis)
-
+- [Rethinking the model names in backend and client side](https://docs.google.com/document/d/1HBG6i6WE60aRKEt-7HUGk84k8XD2KCRxHD_9eJ1hYS8/edit?usp=sharing)
 
 ## Backend (Java, Spring) related links
 
