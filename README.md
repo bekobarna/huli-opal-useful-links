@@ -39,4 +39,6 @@
 - [Google Calendar API reference](https://developers.google.com/calendar/v3/reference/)
 - [Android handling back button](https://www.codeproject.com/Tips/1004463/Handling-back-button-press-in-an-activity-called-)
 - [Android styleguide](https://github.com/umesh0492/android-guidelines/blob/master/project_and_code_guidelines.md)
-- [Android handling back button](https://www.codeproject.com/Tips/1004463/Handling-back-button-press-in-an-activity-called-f)
+- [Android handling back button](https://www.codeproject.com/Tips/1004463/Handling-back-button-press-in-an-activity-called-f
+- [Android testing tutorial](https://codelabs.developers.google.com/codelabs/android-testing/#0)
+- [Android testing sample app](https://github.com/googlesamples/android-testing)
