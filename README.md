@@ -42,3 +42,4 @@
 - [Android handling back button](https://www.codeproject.com/Tips/1004463/Handling-back-button-press-in-an-activity-called-f
 - [Android testing tutorial](https://codelabs.developers.google.com/codelabs/android-testing/#0)
 - [Android testing sample app](https://github.com/googlesamples/android-testing)
+- [Dagger tutorial](https://medium.com/@harivigneshjayapalan/dagger-2-for-android-beginners-introduction-be6580cb3edbq)
